@@ -1,6 +1,8 @@
 # dataservices
 
-A new Flutter project.
+Aplikasi Data Servis
+Nama  : M.Yazid
+Nim   : 20051204019
 
 ## Getting Started
 
